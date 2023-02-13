@@ -34,7 +34,7 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/szuecs/rate-limit-buffer v0.7.1
 	github.com/szuecs/routegroup-client v0.17.7
-	github.com/tidwall/gjson v1.7.4
+	github.com/tidwall/gjson v1.9.3
 	github.com/tklauser/go-sysconf v0.3.5 // indirect
 	github.com/uber-go/atomic v1.4.0 // indirect
 	github.com/uber/jaeger-client-go v2.16.0+incompatible
