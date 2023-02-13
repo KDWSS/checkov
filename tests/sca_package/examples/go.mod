@@ -13,7 +13,7 @@ require (
 	github.com/felixge/httpsnoop v1.0.0 // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-redis/redis/v8 v8.3.3
-	github.com/google/go-cmp v0.5.2
+	github.com/google/go-cmp v0.5.5
 	github.com/hashicorp/memberlist v0.1.4
 	github.com/instana/go-sensor v1.4.16
 	github.com/lightstep/lightstep-tracer-go v0.24.1-0.20210318180546-a67254760a58
@@ -22,14 +22,14 @@ require (
 	github.com/oklog/ulid v1.3.1
 	github.com/opentracing/basictracer-go v1.0.0
 	github.com/opentracing/opentracing-go v1.1.0
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/pquerna/cachecontrol v0.0.0-20180517163645-1555304b9b35 // indirect
-	github.com/prometheus/client_golang v1.0.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/rcrowley/go-metrics v0.0.0-20181016184325-3113b8401b8a
 	github.com/sanity-io/litter v1.1.0
 	github.com/sarslanhan/cronmask v0.0.0-20190709075623-766eca24d011
 	github.com/shirou/gopsutil v3.21.2+incompatible // indirect
-	github.com/sirupsen/logrus v1.4.2
+	github.com/sirupsen/logrus v1.6.0
 	github.com/sony/gobreaker v0.4.1
 	github.com/stretchr/testify v1.6.1
 	github.com/szuecs/rate-limit-buffer v0.7.1
@@ -46,7 +46,6 @@ require (
 	golang.org/x/net v0.0.0-20210415231046-e915ea6b2b7d
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210415045647-66c3f260301c // indirect
 	golang.org/x/tools v0.1.0 // indirect
 	google.golang.org/grpc v1.22.0 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
